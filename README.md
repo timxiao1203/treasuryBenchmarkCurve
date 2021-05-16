@@ -27,8 +27,8 @@ US91282CA…	2020-11-25	7Y	99.84375	0.006479
 US91282CA…	2020-11-25	10Y	99.92969	0.008824
 US912810S…	2020-11-25	30Y	100.0078	0.016247
 
+References:
 
-You can find more details at
 https://finpricing.com/lib/EqAsian.html
 
 https://bitbucket.org/cmrm11/treasurybenchmarkcurve/downloads/FiTreasuryCurve-11.pdf
