@@ -29,5 +29,7 @@ US912810S…	2020-11-25	30Y	100.0078	0.016247
 
 
 You can find more details at
-https://finpricing.com/lib/FiTreasuryCurve.html
+https://finpricing.com/lib/EqAsian.html
+
+https://bitbucket.org/cmrm11/treasurybenchmarkcurve/downloads/FiTreasuryCurve-11.pdf
 
